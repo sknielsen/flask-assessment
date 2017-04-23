@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 10px;
+}
+
+.banner {
+    padding: 10px;
+    background-color: #4deacb;
+    font-family: verdana;
+    text-align: left;
+}
+
+#footer {
+    color: white;
+    font-style: italic;
+}
+
+input {
+    background-color: #bbf7eb;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.instructions {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
+}
